@@ -13,3 +13,10 @@ background-color: black;
         /* 2 li como aul claro
         /* 3 li como amarelo
 
+    button{
+        background-color: red;
+        padding: 10px 20px; /*ESPAÇO INTERNO*/
+        margin: 10px; /*ESPAÇO INTERNO*/
+        border-radius: 10px; /*BORDA*/
+        max-width: 100px;
+     }
